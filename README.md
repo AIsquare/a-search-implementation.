@@ -42,7 +42,7 @@ of reaching the goal from nis greater than the step cost of getting to n' plus e
 
 <img src="maze/a.gif" alt="astar1" width="400"/>
 
-#### Maze path finding implementation
+### Maze path finding implementation
 
 The implementation includes:
 - Building a maze, add your own sparsit (`maze.py`)
