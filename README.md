@@ -9,6 +9,7 @@ BFS systematically explores a graph level by level, starting from a chosen node.
 - Root node is expanded first, then all the successors of the root node are expanded at the given depth.
 > BFS is optimal if the path cost is non decreasing function of the depth of the node.
 > Space complexity O(b<sup>d</sup>) where b = branching factor > No of children at each node.
+
 ![BFS]('maze/bfs.gif)
 #### Depth-First Search (DFS)
 DFS plunges depth-first into a graph, exploring as far as possible along each branch before backtracking. 
