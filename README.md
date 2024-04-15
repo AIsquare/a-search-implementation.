@@ -50,4 +50,4 @@ The implementation includes:
 
 To explore the Maze implementation, please check the [`Maze` folder](maze/maze.py) in this repository.
 
-<img src="maze/astar.PNG" alt="astar" width="400"/>
+<img src="maze/astar.PNG" alt="astar" width="300"/>
